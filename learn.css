@@ -1,0 +1,11 @@
+.box{
+    
+    height: auto;
+    padding: 30px;
+    
+}
+.topnav{
+    display: inline-flex;
+    position: absolute;
+    float:right;
+}
